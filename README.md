@@ -18,21 +18,21 @@ NPM CLI commands;
 > 
 npm audit<br>
 Run a security audit
-npm bin
+npm bin<br>
 Display npm bin folder
-npm bugs
+npm bugs<br>
 Bugs for a package in a web browser maybe
-npm build
+npm build<br>
 Build a package
-npm bundle
+npm bundle<br>
 Removed
-npm cache
+npm cache<br>
 Manipulates packages cache
-npm ci
+npm ci<br>
 Install a project with a clean slate
-npm completion
+npm completion<br>
 Tab completion for npm
-npm config
+npm config<br>
 Manage the npm configuration files
 npm dedupe
 Reduce duplication
