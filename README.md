@@ -3,13 +3,19 @@ Test repository using CLI DOS commands.  Give it a workout. And me.
 <!-- a work in progress for CLI dos. -->
 Learning DOS version of CLI github.  Best way to learn is practice, practice, practice.
 
-CLI commands
-npm
-JavaScript package manager
-npm access
-Set access level on published packages
-npm adduser
-Add a registry user account
+$ cd\
+$ dir *bob*.* /s
+
+NPM CLI commands;
+> npm
+> JavaScript package manager
+
+> npm access
+> Set access level on published packages
+
+> npm adduser
+> Add a registry user account
+> 
 npm audit
 Run a security audit
 npm bin
