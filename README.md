@@ -16,7 +16,7 @@ NPM CLI commands;
 > npm adduser
 > Add a registry user account
 > 
-npm audit
+npm audit<br>
 Run a security audit
 npm bin
 Display npm bin folder
