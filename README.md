@@ -2,7 +2,91 @@
 Test repository using CLI DOS commands.  Give it a workout. And me.
 <!-- a work in progress for CLI dos. -->
 Learning DOS version of CLI github.  Best way to learn is practice, practice, practice.
+Listing of external commands
+Below are examples of MS-DOS and Windows command line external commands currently listed on Computer Hope.
 
+Append      Arp         Assign          At            Attrib            Backup
+Bcdedit     Bootsect    Cacls           Chcp          Chkdsk            Chkntfs
+Choice      Cipher      Clip            Comp          Compact           Convert
+Debug       Defrag      Delpart         Deltree       Diskcomp          Diskcopy
+Doskey      Dosshell
+Driverquery
+Dumpchk	Edit
+Edlin
+Expand
+Extract
+Fasthelp
+Fc
+Fciv
+Fdisk
+Find
+Forfiles
+Format
+FTP
+Gpupdate
+Graftabl
+Help
+Hostname
+ICacls
+Ipconfig
+Label
+Loadfix
+logoff
+Mem
+Mode
+More
+Move
+Msav
+Msbackup	Mscdex
+Mscdexnt
+Mwbackup
+Msd
+Msg
+Nbtstat
+Net
+Netsh
+Netstat
+Nlsfunc
+Nslookup
+Pathping
+Ping
+Power
+Powercfg
+Print
+Reg
+Robocopy
+Route
+Runas
+Sc
+ScanDisk
+Scanreg
+Schtasks
+Setver
+Sfc
+Share	Shutdown
+Smartdrv
+Sort
+Subst
+Sys
+Systeminfo
+Taskkill
+Tasklist
+Telnet
+Tracert
+Tree
+Tskill
+Undelete
+Unformat
+Wmic
+Xcopy
+Where are the external command files stored?
+Many of the external commands are located in the Windows\system32 or Winnt\system32 directories. If you need to locate the external file to delete it, rename it or replace it, you can also find the file through MS-DOS.
+
+How do you run an external command?
+If the file exists and you have the proper paths, an external command runs like an internal command by typing the command name at the prompt. However, if the paths are not set properly or they are missing, the command line would not know where to look for the external command. In that case, you would get an error, unless you were in the same directory as the command.
+
+Can you send me the external command file?
+Computer Hope cannot and will not provide any user with a downloadable version of any of the files above. If you are looking for a download, we suggest looking for alternative programs that perform the same function as the commands above.
 $ cd\
 $ dir *bob*.* /s
 
