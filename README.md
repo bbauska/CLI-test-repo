@@ -1,84 +1,92 @@
 # CLI-test-repo
-Test repository using CLI DOS commands.  Give it a workout. And me.
+## Test repository using CLI DOS commands.
+
+Give it a workout. And me.
 <!-- a work in progress for CLI dos. -->
-Learning DOS version of CLI github.  Best way to learn is practice, practice, practice.
-Listing of external commands
-Below are examples of MS-DOS and Windows command line external commands currently listed on Computer Hope.
+### Learning DOS version of CLI github.
+#### Best way to learn is practice, practice, practice.
+
+### Listing of external commands
+#### Below are examples of MS-DOS and Windows command line external commands currently listed on Computer Hope.
 
 Append      Arp         Assign          At            Attrib            Backup
 Bcdedit     Bootsect    Cacls           Chcp          Chkdsk            Chkntfs
 Choice      Cipher      Clip            Comp          Compact           Convert
 Debug       Defrag      Delpart         Deltree       Diskcomp          Diskcopy
 Doskey      Dosshell
-Driverquery
-Dumpchk	Edit
-Edlin
-Expand
-Extract
-Fasthelp
-Fc
-Fciv
-Fdisk
-Find
-Forfiles
-Format
-FTP
-Gpupdate
-Graftabl
-Help
-Hostname
-ICacls
-Ipconfig
-Label
-Loadfix
-logoff
-Mem
-Mode
-More
-Move
-Msav
-Msbackup	Mscdex
-Mscdexnt
-Mwbackup
-Msd
-Msg
-Nbtstat
-Net
-Netsh
-Netstat
-Nlsfunc
-Nslookup
-Pathping
-Ping
-Power
-Powercfg
-Print
-Reg
-Robocopy
-Route
-Runas
-Sc
-ScanDisk
-Scanreg
-Schtasks
-Setver
-Sfc
-Share	Shutdown
-Smartdrv
-Sort
-Subst
-Sys
-Systeminfo
-Taskkill
-Tasklist
-Telnet
-Tracert
-Tree
-Tskill
-Undelete
-Unformat
-Wmic
-Xcopy
+
+Driverquery<br>
+Dumpchk	Edit<br>
+Edlin<br>
+Expand<br>
+Extract<br>
+Fasthelp<br>
+Fc<br>
+Fciv<br>
+Fdisk<br>
+Find<br>
+Forfiles<br>
+Format<br>
+FTP<br>
+Gpupdate<br>
+Graftabl<br>
+Help<br>
+Hostname<br>
+ICacls<br>
+Ipconfig<br>
+Label<br>
+Loadfix<br>
+logoff<br>
+Mem<br>
+Mode<br>
+More<br>
+Move<br>
+Msav<br>
+Msbackup<br>
+Mscdex<br>
+Mscdexnt<br>
+Mwbackup<br>
+Msd<br>
+Msg<br>
+Nbtstat<br>
+Net<br>
+Netsh<br>
+Netstat<br>
+Nlsfunc<br>
+Nslookup<br>
+Pathping<br>
+Ping<br>
+Power<br>
+Powercfg<br>
+Print<br>
+Reg<br>
+Robocopy<br>
+Route<br>
+Runas<br>
+Sc<br>
+ScanDisk<br>
+Scanreg<br>
+Schtasks<br>
+Setver<br>
+Sfc<br>
+Share<br>
+Shutdown<br>
+Smartdrv<br>
+Sort<br>
+Subst<br>
+Sys<br>
+Systeminfo<br>
+Taskkill<br>
+Tasklist<br>
+Telnet<br>
+Tracert<br>
+Tree<br>
+Tskill<br>
+Undelete<br>
+Unformat<br>
+Wmic<br>
+Xcopy<br>
+
 Where are the external command files stored?
 Many of the external commands are located in the Windows\system32 or Winnt\system32 directories. If you need to locate the external file to delete it, rename it or replace it, you can also find the file through MS-DOS.
 
